@@ -1,0 +1,6 @@
+const app = require('./app')
+let colors = require("colors")
+console.log("HEllo".blue)
+console.log(app.x)
+console.log(app.y)
+console.log(app.sum(10, 2))

@@ -1,0 +1,15 @@
+{
+  "name": "first_class",
+  "version": "1.0.0",
+  "description": "this is my first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Surjeet Singh",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "simple-node-logger": "^21.8.12"
+  }
+}

@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.nav-bar{
+    background-color: #212121;
+    color: aliceblue;
+}
+.bg-body-tertiary{
+    background-color: black;
+}
+nav.navbar.navbar-expand-lg.bg-body-tertiary {
+    background-color: #212121;
+}
